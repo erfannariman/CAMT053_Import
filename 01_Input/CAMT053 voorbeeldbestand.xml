@@ -1808,7 +1808,7 @@ Inkomende SDD Reject
             <RtrInf>
               <Rsn>
                 <Cd>MS03</Cd>
-              <Rsn>
+              </Rsn>
             </RtrInf>
           </TxDtls>
         </NtryDtls>
@@ -1897,7 +1897,7 @@ Inkomende SDD Return
             <RtrInf>
               <Rsn>
                 <Cd>MS03</Cd>
-              <Rsn>
+              </Rsn>
             </RtrInf>
           </TxDtls>
         </NtryDtls>
