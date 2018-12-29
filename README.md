@@ -1,3 +1,6 @@
+### note
+This project is still under development.
+
 # Purpose of this project
 The purpose of this project is to parse and transform a `CAMT.053` file into a dataframe.
 I will not go into each and every tag, for that information you can check one of your banks CAMT implementation guidelines, for example: [ABN](https://www.abnamro.nl/nl/images/Content/022_Zakelijk_nieuwe_structuur/000_Gedeelde_documenten/pdf_sepa_betaalvereniging_ig_camt_v1-0.pdf)
