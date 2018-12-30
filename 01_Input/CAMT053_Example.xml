@@ -16,7 +16,7 @@ Dagafschrift CAMT.053 met de volgende transacties:
 - Inkomende SDD Return
 -->
 <Document xmlns='urn:iso:std:iso:20022:tech:xsd:camt.053.001.02' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-  <BkToCstmrStmt>
+  <BkToCstmrStmt>	
     <GrpHdr>
       <MsgId>0574908765.2013-04-02</MsgId>
       <CreDtTm>2013-04-12T10:55:08.66+02:00</CreDtTm>
